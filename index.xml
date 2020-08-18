@@ -12,16 +12,6 @@
     
     <item>
       <title>About</title>
-      <link>https://jimjiang.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jimjiang.com/about/</guid>
-      <description>Nice to meet you! 👋 I am a computer scientist, software engineer, and full stack developer aiming to solve problems with out of the box thinking. In otherwords I make computers go beep-bop 🤖 to solve problems in our lives._
-I like to manipulate things till they break, or just to re-make them in a data oriented manner for a better experience. Meaning I like to break, manipulate, optimize software. I might leverage parallel computing, data science, algorithms, or artificial intelligence to create a better and lighter solution.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
       <link>https://jimjiang.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
