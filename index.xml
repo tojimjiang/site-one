@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jim Jiang</title>
+    <link>https://jimjiang.com/</link>
+    <description>Recent content on Jim Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jimjiang.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jimjiang.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/about/</guid>
+      <description>Nice to meet you! 👋 I am a computer scientist, software engineer, and full stack developer aiming to solve problems with out of the box thinking. In otherwords I make computers go beep-bop 🤖 to solve problems in our lives._
+I like to manipulate things till they break, or just to re-make them in a data oriented manner for a better experience. Meaning I like to break, manipulate, optimize software. I might leverage parallel computing, data science, algorithms, or artificial intelligence to create a better and lighter solution.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jimjiang.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/projects/</guid>
+      <description>Breaking Stuff unsupress A chrome extension for one specific e-commerce website to make it a bit less sleazy. It pulls back the curtain on how many &amp;ldquo;refurbished like new 10/10 iPhones NOT FOR USA LOCKED&amp;rdquo; that the seller actually has listed on the platform.
+dreamtA A dreamy transit client for NYC Subways. It&amp;rsquo;s outrageously lightweight and powerful *when the MTA isn&amp;rsquo;t lying about where the trains are. hosted on Glitch</description>
+    </item>
+    
+    <item>
+      <title>Contact Info</title>
+      <link>https://jimjiang.com/about/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/about/contact/</guid>
+      <description>This page relies on JavaScript to work properly!Does not compute. Does not compute. My buffer is overflowing. My hard drive is scrambling. My fan is overheating.
+But really, JavaScript must be enabled for this page to fully load. Without it this page can not determine your user status.
+See My GitHubSee My LinkedIn </description>
+    </item>
+    
+    <item>
+      <title>Live Resume</title>
+      <link>https://jimjiang.com/about/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/about/resume/</guid>
+      <description>Jim JiangComputer Scientist
+Software Engineer
+Full Stack Developer
+Problem Solver
+EducationSeptember 2015 - May 2019 at New York University
+Bachelors in Computer Science Minors in Chemistry and Web Development and Applications
+Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Computer Networks, Open Source Software, and Object Oriented Programming.
+Languages and SkillsExcellentAJAX</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Jim Jiang</title>
+    <link>https://jimjiang.com/about/</link>
+    <description>Recent content in Abouts on Jim Jiang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jimjiang.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Info</title>
+      <link>https://jimjiang.com/about/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/about/contact/</guid>
+      <description>This page relies on JavaScript to work properly!Does not compute. Does not compute. My buffer is overflowing. My hard drive is scrambling. My fan is overheating.
+But really, JavaScript must be enabled for this page to fully load. Without it this page can not determine your user status.
+See My GitHubSee My LinkedIn </description>
+    </item>
+    
+    <item>
+      <title>Live Resume</title>
+      <link>https://jimjiang.com/about/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/about/resume/</guid>
+      <description>Jim JiangComputer Scientist
+Software Engineer
+Full Stack Developer
+Problem Solver
+EducationSeptember 2015 - May 2019 at New York University
+Bachelors in Computer Science Minors in Chemistry and Web Development and Applications
+Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Computer Networks, Open Source Software, and Object Oriented Programming.
+Languages and SkillsExcellentAJAX</description>
+    </item>
+    
+  </channel>
+</rss>
