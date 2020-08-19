@@ -32,19 +32,35 @@ But really, JavaScript must be enabled for this page to fully load. Without it t
     </item>
     
     <item>
-      <title>Live Resume</title>
+      <title>Resume</title>
       <link>https://jimjiang.com/about/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jimjiang.com/about/resume/</guid>
-      <description>Jim JiangComputer Scientist
+      <description>Download the PDF of this resume.
+Just my living HTML resume. With just a pop of ink as a break to the predictability. psst - I&amp;rsquo;m printable in desktop browser!
+Jim JiangComputer Scientist
 Software Engineer
 Full Stack Developer
 Problem Solver
 EducationSeptember 2015 - May 2019 at New York University
 Bachelors in Computer Science Minors in Chemistry and Web Development and Applications
-Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Computer Networks, Open Source Software, and Object Oriented Programming.
-Languages and SkillsExcellentAJAX</description>
+Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Computer Networks, Open Source Software, and Object Oriented Programming.</description>
+    </item>
+    
+    <item>
+      <title>Resume (Low Ink)</title>
+      <link>https://jimjiang.com/about/resume-low-ink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jimjiang.com/about/resume-low-ink/</guid>
+      <description>Download the PDF of this limited background resume.
+This living HTML resume is designed to use a reduced quantity of printer resources as compared to the classic resume by limiting the use of background colors. psst - I&amp;rsquo;m printable in desktop browser!
+Jim JiangComputer Scientist
+Software Engineer
+Full Stack Developer
+Problem Solver
+EducationSeptember 2015 - May 2019 at New York University</description>
     </item>
     
   </channel>

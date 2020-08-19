@@ -1,0 +1,84 @@
+
+.resume p {
+	color: black;
+}
+
+.resume .contra-color-text * {
+	color: black;
+}
+
+.resume-pill:hover, .resume-pill-sk:hover,
+.resume-pill:active, .resume-pill-sk:active,
+.resume-pill:focus, .resume-pill-sk:focus {
+	border-color: black;
+	background: white;
+}
+
+.resume-pill:hover p, .resume-pill-sk:hover p,
+.resume-pill:active p, .resume-pill-sk:active p,
+.resume-pill:focus p, .resume-pill-sk:focus p {
+	color: black;
+}
+
+.resume-top-bottom {
+	border-bottom: 0.5px solid rgba(150, 150, 150, 0.33);
+	border-top: 0.5px solid rgba(150, 150, 150, 0.33);
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;
+}
+
+.resume-top {
+	border-bottom: 0.5px solid rgba(150, 150, 150, 0.33);
+	padding-top: 0em;
+}
+
+.resume-top-bottom .resume-top, .resume-top .resume-top, .resume-top-bottom > .resume-top-bottom, .resume-top-bottom:last-child {
+	border-bottom: none;
+}
+
+.resume-top + .resume-top-bottom {
+	border-top: none;
+}
+
+.resume-page > .resume-top, .resume-page > .resume-top-bottom {
+	border-bottom: 1px solid black;
+}
+
+.resume-page {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+}
+
+
+.resume-block-title{
+	color: black;
+}
+
+.bg-color-1 {
+	background-color: white;
+}
+
+.bg-color-2 {
+	background-color: white;
+}
+
+.bg-color-3 {
+	background-color: white;
+}
+
+.bg-color-4 {
+	background-color: white;
+}
+
+
+@media print {
+	html {
+		background-color: white;
+	}
+	.resume-header > h1 {
+		font-size: 2.99em;
+		margin-block-end: 0.12em;
+		margin-block-start: 0.24em;
+	}
+}
