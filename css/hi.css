@@ -7,6 +7,9 @@ a.project {
 	transition-duration: 1s;
 	text-align: end;
 	padding-right: 0.5em;
+	margin-block-start: 0.5em;
+	font-size: 1.25rem;
+    line-height: 2;
 }
 
 a.project:hover, a.project:active, a.project:focus {
