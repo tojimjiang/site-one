@@ -21,15 +21,16 @@
 }
 
 .resume-top-bottom {
-	border-bottom: 0.5px solid rgba(150, 150, 150, 0.33);
-	border-top: 0.5px solid rgba(150, 150, 150, 0.33);
+	/* border-bottom: 1px solid rgb(100, 100, 100); */
+	/* border-top: 1px solid rgb(100, 100, 100); */
 	padding-top: 0.2em;
 	padding-bottom: 0.2em;
 }
 
 .resume-top {
-	border-bottom: 0.5px solid rgba(150, 150, 150, 0.33);
+	/* border-bottom: 1px solid rgb(100, 100, 100); */
 	padding-top: 0em;
+	padding-bottom: 2px;
 }
 
 .resume-top-bottom .resume-top, .resume-top .resume-top, .resume-top-bottom > .resume-top-bottom, .resume-top-bottom:last-child {
@@ -41,15 +42,19 @@
 }
 
 .resume-page > .resume-top, .resume-page > .resume-top-bottom {
-	border-bottom: 1px solid black;
+	/* border-bottom: 2px solid black; */
+	padding-bottom: 4px;
 }
 
 .resume-page {
 	display: flex;
 	flex-direction: column;
-	background-color: white;
+	/* background-color: white; */
 }
 
+.resume-page > div:nth-last-of-type(1) {
+	flex-grow: 1;
+}
 
 .resume-block-title{
 	color: black;
@@ -60,21 +65,21 @@
 }
 
 .bg-color-2 {
-	background-color: white;
+	background-color: #fcfcfc;
 }
 
 .bg-color-3 {
-	background-color: white;
+	background-color: #f5f5f5;
 }
 
 .bg-color-4 {
-	background-color: white;
+	background-color: #f0f0f0;
 }
 
 
 @media print {
 	html {
-		background-color: white;
+		background-color: #f0f0f0;
 	}
 	.resume-header > h1 {
 		font-size: 2.99em;

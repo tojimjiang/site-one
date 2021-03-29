@@ -90,8 +90,12 @@ div.resume-pill-sk > p {
 	padding-top: 0.25em;
 }
 
-.resume-time, .resume-place, .resume-achievement {
+.resume-place, .resume-achievement {
 	font-weight: bolder;
+}
+
+.resume-time {
+	font-style: italic;
 }
 
 .resume-page {
