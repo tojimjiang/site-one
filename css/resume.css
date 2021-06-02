@@ -252,6 +252,10 @@ div.resume-pill-sk > p {
     align-items: flex-end;
 }
 
+.resume-screen-flex-grow {
+	flex-grow: 1;
+}
+
 .do-not-show {
 	display: none;
 }
