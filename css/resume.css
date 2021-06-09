@@ -197,7 +197,6 @@ div.resume-pill-sk > p {
 .resume-mid-header > .resume-mid-header-basic-text > a:active,
 .resume-mid-header > .resume-mid-header-basic-text > a:focus {
 	font-size: var(--standard);
-	font-weight: var(--bolder);
 	text-decoration: none;
 	color: black;
 	background-color: white;
