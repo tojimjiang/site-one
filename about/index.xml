@@ -5,20 +5,16 @@
     <link>https://jimjiang.com/about/</link>
     <description>Recent content in About on Jim Jiang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://jimjiang.com/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://jimjiang.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact Info</title>
       <link>https://jimjiang.com/about/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jimjiang.com/about/contact/</guid>
-      <description>This page relies on JavaScript to work properly!Does not compute. Does not compute. My buffer is overflowing. My hard drive is scrambling. My fan is overheating.
+      <description>This page relies on JavaScript to work properly!Does not compute. Does not compute. My buffer is overflowing. My hard drive is scrambling. My fan is overheating.
 But really, JavaScript must be enabled for this page to fully load. Without it this page can not determine your user status.
-See My GitHubSee My LinkedIn </description>
+See My GitHubSee My LinkedIn</description>
     </item>
     
     <item>
@@ -29,7 +25,7 @@ But really, JavaScript must be enabled for this page to fully load. Without it t
       <guid>https://jimjiang.com/about/resume/</guid>
       <description>My living HTML resume, with ink to break the tedium. But if this is too much ink, a lighter version of this resume is available here. psst - I&amp;rsquo;m printable in desktop browser!
 Download the PDF of this resume.
-Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
+Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
 Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Parallel Computing, Computer Networks, Open Source Software, and Object Oriented Programming.</description>
     </item>
     
@@ -41,7 +37,7 @@ Completed Coursework in Full Stack Web Development, Algorithms, Operating System
       <guid>https://jimjiang.com/about/resume-light/</guid>
       <description>My living HTML resume designed to be lighter as compared to the classic resume but still . psst - I&amp;rsquo;m printable in desktop browser!
 Download the PDF of this light resume.
-Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
+Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
 Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Parallel Computing, Computer Networks, Open Source Software, and Object Oriented Programming.</description>
     </item>
     
