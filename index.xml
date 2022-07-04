@@ -17,7 +17,7 @@
       
       <guid>https://jimjiang.com/projects/</guid>
       <description>🔍Nice to see you taking a peek at my projects that I have done in my spare time. Some of these are just me playing around, others are to solve a quality of life issue in my own life in the technologies or services that I might use everyday. Take a peek at what a few carefully placed needles can do 😉.
-Breaking Stuff Some tools that some other parties might not want to really exist.</description>
+Breaking Stuff&amp;nbsp;¶Some tools that some other parties might not want to really exist.</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ But really, JavaScript must be enabled for this page to fully load. Without it t
       <guid>https://jimjiang.com/about/resume/</guid>
       <description>My living HTML resume, with ink to break the tedium. But if this is too much ink, a lighter version of this resume is available here. psst - I&amp;rsquo;m printable in desktop browser!
 Download the PDF of this resume.
-Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
+Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
 Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Parallel Computing, Computer Networks, Open Source Software, and Object Oriented Programming.</description>
     </item>
     
@@ -51,7 +51,7 @@ Completed Coursework in Full Stack Web Development, Algorithms, Operating System
       <guid>https://jimjiang.com/about/resume-light/</guid>
       <description>My living HTML resume designed to be lighter as compared to the classic resume but still . psst - I&amp;rsquo;m printable in desktop browser!
 Download the PDF of this light resume.
-Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
+Jim JiangEducationBachelors in Computer Science from New York University | September 2015 - May 2019
 Completed Coursework in Full Stack Web Development, Algorithms, Operating Systems, Computers Systems Organization, Parallel Computing, Computer Networks, Open Source Software, and Object Oriented Programming.</description>
     </item>
     
