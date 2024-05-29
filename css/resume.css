@@ -472,7 +472,7 @@ div.resume-pill-sk > p {
 	}
 
 	.resume-print-flex-grow {
-		flex-grow: 1;
+		flex-grow: 0;
 	}
 
 }
