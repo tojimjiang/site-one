@@ -35,8 +35,23 @@ Breaking Stuff&amp;nbsp;¶Some tools that some other parties might not want to 
       <guid>https://jimjiang.com/about/resume/</guid>
       <description>My living HTML resume, with ink to break the tedium. But if this is too much ink, a lighter version of this resume is available here. psst - I&amp;rsquo;m printable in desktop browser!
 Download the PDF of this resume.
-Jim JiangExperienceSenior Software Engineer at Ria Health | August 2021 - Current
-Build new unified appointment booking and management platform with license, credential, insurance, and regulation-aware scheduling; Reduce patient care delays in low-population subgroups using artificial intelligence; Improve provider time efficiency and utilization.</description>
+Jim JiangWebsiteExperienceSenior Software Engineer at Ria Health | August 2021 - Current
+APIs
+Athenanet
+AWS
+CircleCI
+Docker
+JavaScript
+Material
+Meteor
+MongoDB
+Node.js
+PostgreSQL
+Python
+React
+TypeScript
+Webhooks
+Websockets</description>
     </item>
     
     <item>
@@ -47,8 +62,24 @@ Build new unified appointment booking and management platform with license, cred
       <guid>https://jimjiang.com/about/resume-light/</guid>
       <description>My living HTML resume designed to be lighter as compared to the classic resume but still . psst - I&amp;rsquo;m printable in desktop browser!
 Download the PDF of this light resume.
-Jim JiangExperienceSenior Software Engineer at Ria Health | August 2021 - Current
-Build new unified appointment booking and management platform with license, credential, insurance, and regulation-aware scheduling; Reduce patient care delays in low-population subgroups using artificial intelligence; Improve provider time efficiency and utilization.</description>
+Jim JiangWebsiteExperienceSenior Software Engineer at Ria Health | August 2021 - Current
+APIs
+Athenanet
+AWS
+CircleCI
+Docker
+JavaScript
+Material
+Meteor
+MongoDB
+Node.js
+PostgreSQL
+Python
+React
+TypeScript
+Webhooks
+Websockets
+Build a new appointment scheduling and management platform with licensure, insurance network, payer credential, state regulation-aware, and phase of treatment constraints; Eliminate non-concovered or possibly out-of-scope appointment bookings and reduce patient care delays in low-population subgroups using artificial intelligence to forecast demand and utilization with provider groups; Increases medical and therapy provider utilization per shift and lower cost per patient visit.</description>
     </item>
     
   </channel>
