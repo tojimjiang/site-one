@@ -66,6 +66,11 @@ div.qr-wrapper > .qr-line-wrapper > .qr-cell.qr-cell-dark {
     grid-row: 1;
 }
 
+a.qr-href {
+    text-decoration: none;
+    border-bottom: none;
+}
+
 @media print {
     div div div.qr-wrapper {
         /* Size differs between print and screen */
