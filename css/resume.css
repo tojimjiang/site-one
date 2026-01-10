@@ -404,7 +404,7 @@ div.resume-pill-sk > p {
 		font-family: "Inter", sans-serif;
 		background-color:#30353b;
 		--printer-width-adjustment: 0px;
-		--printer-scale-down: 0.91;
+		--printer-scale-down: 0.85;
 	}
 
 	body {
