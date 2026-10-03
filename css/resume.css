@@ -38,7 +38,7 @@
 .resume p {
 	font-size: var(--standard);
 	color: black;
-	line-height: 1.15;
+	line-height: 1.33;
 	letter-spacing: 0.35px;
 }
 
@@ -307,10 +307,6 @@ div.resume-pill-sk > p {
 	display: none;
 }
 
-.qr-code {
-	
-}
-
 .resume-right-margin-reduced-qrcode {
 	margin-right: -1.25em;
 }
@@ -404,7 +400,7 @@ div.resume-pill-sk > p {
 		font-family: "Inter", sans-serif;
 		background-color:#30353b;
 		--printer-width-adjustment: 0px;
-		--printer-scale-down: 0.85;
+		--printer-scale-down: 0.84;
 	}
 
 	body {
@@ -437,6 +433,10 @@ div.resume-pill-sk > p {
 		max-width: none !important;
 		min-height: 100vh;
 		justify-content: center;
+	}
+
+	.resume-right-margin-reduced-qrcode {
+		margin-right: 0em;
 	}
 
 	.resume p {
