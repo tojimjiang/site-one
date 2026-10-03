@@ -1,3 +1,7 @@
+:root {
+    --qr-code-scale: 0.9;
+}
+
 div div div.qr-pretty-wrapper {
     display: flex;
     flex-wrap: nowrap;
@@ -21,7 +25,7 @@ div div div.qr-pretty-wrapper {
 div div div.qr-wrapper {
     max-height: 100%;
     max-width: 100%;
-    width: 62px !important;
+    width: calc(var(--qr-code-scale) * 62px) !important;
     /* height: 72px !important; */
     display: flex;
     flex-wrap: wrap;
@@ -41,8 +45,8 @@ div.qr-wrapper > .qr-line-wrapper {
 }
 
 div.qr-wrapper > .qr-line-wrapper > .qr-cell {
-    width: 2px !important;
-    height: 2px !important;
+    width: calc(var(--qr-code-scale) * 2px) !important;
+    height: calc(var(--qr-code-scale) * 2px) !important;
     /* border-radius: 0.66px; */
     /* border-radius: 2px 2px 2px 3px; */
 }
@@ -74,6 +78,6 @@ a.qr-href {
 @media print {
     div div div.qr-wrapper {
         /* Size differs between print and screen */
-        width: 54px !important;
+        width: calc(var(--qr-code-scale) * 54px) !important;
     }
 }
